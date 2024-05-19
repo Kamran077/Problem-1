@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#_Projects\KamranTest\BirthDay\bin\Debug\BirthDay.exe.config
+C:\Users\User\Documents\C#_Projects\KamranTest\BirthDay\bin\Debug\BirthDay.exe
+C:\Users\User\Documents\C#_Projects\KamranTest\BirthDay\bin\Debug\BirthDay.pdb
+C:\Users\User\Documents\C#_Projects\KamranTest\BirthDay\obj\Debug\BirthDay.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#_Projects\KamranTest\BirthDay\obj\Debug\BirthDay.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#_Projects\KamranTest\BirthDay\obj\Debug\BirthDay.exe
+C:\Users\User\Documents\C#_Projects\KamranTest\BirthDay\obj\Debug\BirthDay.pdb
